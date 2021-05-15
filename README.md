@@ -15,3 +15,5 @@ watcher.on('block', () => {
   console.log(`New Block: ${new Date()}`)
 })
 ```
+
+Donations kindly accepted at **noforks.tez**
