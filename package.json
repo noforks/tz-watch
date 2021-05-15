@@ -1,0 +1,16 @@
+{
+  "name": "tz-watch",
+  "version": "0.0.1",
+  "description": "Monitor onBlock events from the Tezos node",
+  "main": "dist/index.js",
+  "repository": "https://github.com/noforks/tz-watch",
+  "author": "Kirill Stytsenko <kirill@styts.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^15.3.0",
+    "@types/node-fetch": "^2.5.10"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
